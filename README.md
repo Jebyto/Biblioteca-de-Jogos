@@ -19,13 +19,13 @@ This is a simple React project for managing a library of games. Users can add an
 1. Clone this repository:
 
    ```
-   git clone https://github.com/seu-usuario/react-games-library.git
+   git clone https://github.com/Jebyto/Biblioteca-de-Jogos.git
    ```
 
 2. Navigate into the project directory:
 
    ```
-   cd react-games-library
+   cd Biblioteca-de-Jogos
    ```
 
 3. Install dependencies:
@@ -37,31 +37,17 @@ This is a simple React project for managing a library of games. Users can add an
 4. Start the development server:
 
    ```
-   npm start
+   npm run dev
    ```
 
-5. Open your browser and visit `http://localhost:3000` to view the application.
+5. Open your browser and visit `http://localhost:5173` to view the application.
 
 ## Usage
 
-1. To add a new game, click on the "Add Game" button.
-2. Enter the title of the game and the link to its cover image.
-3. Click on the "Add" button to add the game to your library.
-4. To remove a game, click on the "Remove" button next to the game you want to remove.
+1. Enter the title of the game and the link to its cover image.
+2. To add a new game, click on the "Adicionar à biblioteca" button.
+3. To remove a game, click on the "Remover" button next to the game you want to remove.
 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or bug fixes you'd like to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- This project was inspired by [insert inspiration here].
-- Special thanks to [anyone you'd like to thank].
-
----
-
-Feel free to customize this README to better fit your project! You can add sections like "Future Improvements," "Credits," or anything else you think would be helpful.
